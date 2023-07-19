@@ -48,7 +48,7 @@ During the training process, the model's performance will be logged, and validat
 - If you plan to run long training sessions, consider setting up the `log_directory2` variable to copy log files to a backup location.
 
 **5. Running the model**
-- Run the code snippet in google colab which has a comment "Run the model".
+- Run the code snippet in google colab which has a comment "Run this code segment for using the trained model".
 - It will ask for a text input and it will create a speech output in the trained voice.
 
 **6. Dataset**
