@@ -47,3 +47,5 @@ During the training process, the model's performance will be logged, and validat
 - Always ensure you have access to sufficient GPU memory and runtime availability on Google Colab.
 - If you plan to run long training sessions, consider setting up the `log_directory2` variable to copy log files to a backup location.
 
+**4. Citations**
+- https://github.com/justinjohn0306/FakeYou-Tacotron2-Notebook
