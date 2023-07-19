@@ -51,10 +51,14 @@ During the training process, the model's performance will be logged, and validat
 - Run the code snippet in google colab which has a comment "Run the model".
 - It will ask for a text input and it will create a speech output in the trained voice.
 
- **6. Dataset **
+**6. Dataset**
  - https://www.kaggle.com/datasets/mathurinache/the-lj-speech-dataset
  - This is a public domain speech dataset consisting of 13,100 short audio clips of a single speaker reading passages from 7 non-fiction books. A transcription    is provided for each clip. Clips vary in length from 1 to 10 seconds and have a total length of approximately 24 hours.
  - The texts were published between 1884 and 1964, and are in the public domain. The audio was recorded in 2016-17 by the LibriVox project and is also in the      public domain.
+   
+**7. Training**
+ - Training is done on 100 audio samples from dataset
+ - Validations loss reported after 215 epochs is 0.119743
  
-**7. Citations**
+**8. Citations**
 - https://github.com/justinjohn0306/FakeYou-Tacotron2-Notebook
