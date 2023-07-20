@@ -3,6 +3,8 @@
 
 This repository contains a script for training a Tacotron2 Text-to-Speech (TTS) model using the LJSpeech dataset on Google Colab. The Tacotron2 model is a popular architecture for end-to-end TTS synthesis.
 
+Colab Notebook link: https://githubtocolab.com/shanilmohd/Tacotron2-Text-to-Speech-model/blob/main/Tacotron_2_TTS.ipynb
+
 **Note: This training script is designed for Google Colab, and it assumes you have access to a GPU.**
 
 **1. Dataset Preparation**
